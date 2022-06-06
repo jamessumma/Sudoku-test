@@ -1,4 +1,4 @@
-package com.example.sudoku;
+package sudoku.problemdomain;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

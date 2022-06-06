@@ -1,4 +1,4 @@
-package com.example.sudoku;
+package sudoku.problemdomain;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
